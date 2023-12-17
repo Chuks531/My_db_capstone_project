@@ -1,0 +1,2 @@
+BookingID,TableNo,GuestFirstName,GuestLastName,BookingSlot,EmployeeID
+5,5,Hiroki,Yamane,18:30:00,2
